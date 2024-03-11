@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    background-color: aquamarine;
+     height: 4rem;
+     width: auto;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+footer{
+    border-top-color: aliceblue;
+    background-color: rgb(34, 34, 34);
+    height: 4rem;
+    width: auto;
+    display: flex;
+    align-items: end;
+    justify-content:center;
+}
+.container0{
+    height: 19rem;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.nav{
+    background-color:chocolate ;
+    padding: 1%;
+    border-style: dashed;
+    border-radius: 10px;
+    
+}
+.blu{
+    background-color: rgb(20, 20, 95);
+}
+.grey{
+    background-color: darkgray;
+}
+.uno{
+    background-color: rgb(242, 108, 179);
+    height: 13rem;
+    width: 50%;
+    border-style: dashed;
+    border-radius: 10px;
+}
+.container1{
+    height: 22rem;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.due{
+    
+    height: 15rem;
+    width: 40%;
+    border-style: dashed;
+    border-radius: 10px;
+}
+.due2{
+    height: 15rem;
+    width: 30%;
+    border-style: dashed;
+    border-radius: 10px;
+}
+.rose{
+    background-color: rgb(204, 155, 196);
+}
+.celeste{
+    background-color: aqua;
+}
+.container2{
+    height: 30rem;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.tre{
+    background-color: darkgreen;
+    height: 25rem;
+    width: 70%;
+    border-style: dashed;
+    border-radius: 10px;
+}
+.container3{
+    background-color: rgb(34, 34, 34);
+    height: 30rem;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.quattro{
+    background-color: rgb(228, 110, 173);
+    height: 25rem;
+    width: 40%;
+    border-style: dashed;
+    border-radius: 10px;
+}
+.quattro4{
+    background-color: rgb(72, 189, 252);
+    height: 25rem;
+    width: 10%;
+    border-style: dashed;
+    border-radius: 10px;
+}
+.footer{
+    background-color: aquamarine;
+    height: 2rem;
+    width: 70%;
+    border-style: dashed;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.footer1{
+    background-color: rgb(202, 25, 25);
+    height: 1rem;
+    width: 5%;
+    border-style: dashed;
+    border-radius: 10px;
+    padding: 0.5%;
+    align-items: center;
+    justify-content: center;
+}
+
+
